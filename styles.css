@@ -14,11 +14,11 @@ body {
     display: flex;
     flex-direction: column;
     background-color: hsl(0, 0%, 100%);
-    width: 60vh;
+    width: 62vh;
     margin: 0;
     padding: 15px;
     border-radius: 20px;
-    border: 1px solid #333;
+    border: 1px solid #000;
     font-family: "Figtree", sans-serif;
     color: hsl(0, 0%, 7%);
     box-shadow: rgba(0, 0, 0, 1) 10px 10px 0px 0px;
@@ -85,9 +85,5 @@ div p {
 }
 .attribution a {
     color: hsl(228, 45%, 44%);
-}
-
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-    /* Styles */
 }
     
